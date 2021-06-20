@@ -7,6 +7,8 @@
 
 - 🔭 I’m currently working on [BayMax](https://github.com/Aswin-M-S/BayMax)
 
+- 👽 Lets get in touch **www.linkedin.com/in/aswin-m-s**
+
 - 🌱 I’m currently learning **Django,Python,ML**
 
 - 💬 Ask me about **Anything!**
