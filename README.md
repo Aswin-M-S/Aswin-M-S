@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aswin M S</h1>
-<h3 align="center">I am funny enough for myself!</h3>
+<h3 align="center">I am funny enough for myself! 🤖 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aswin-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="aswin-m-s" /> </p>
 
