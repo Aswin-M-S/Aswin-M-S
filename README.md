@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:742774&height=200&section=header&text=Aswin%20M%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20Platform%20%7C%20Dynamics%20365%20%7C%20Automation&descAlignY=58&descSize=18" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:742774&height=200&section=header&text=Aswin%20M%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Power%20Platform%20%7C%20Dynamics%20365%20%7C%20Azure%20Integration&descAlignY=58&descSize=18" alt="header"/>
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Microsoft+Power+Platform+Technical+Consultant;Dynamics+365+Developer;Automation+Enthusiast+%F0%9F%A4%96;Turning+business+processes+into+workflows" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=680&lines=Power+Platform+Technical+Consultant;Canvas+%26+Model-Driven+App+Developer;Power+Automate+%26+Dataverse+Engineer;Microsoft+Graph+API+%26+Azure+Integration;Governed%2C+audit-ready+architectures" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,60 +22,70 @@
 
 ### 🚀 About Me
 
-I'm a **Microsoft Power Platform Technical Consultant** at **Sysfore Technologies Pvt. Ltd.**, Bengaluru — I help businesses enhance their processes and automate workflows across the **Microsoft Power Platform** and **Dynamics 365** ecosystem.
+I'm a **Power Platform Technical Consultant** with **4 years** of hands-on engineering across the Microsoft Power Platform and Dynamics 365 ecosystem. I build **Canvas & Model-Driven Apps**, automate processes with **Power Automate**, model data in **Dataverse**, and integrate with **Microsoft Graph API** and **Azure** — with a focus on governed, audit-ready architectures that scale.
 
 ```yaml
 name: Aswin M S
 role: Power Platform Technical Consultant
-company: Sysfore Technologies Pvt. Ltd.
-location: Bengaluru, India
-education: East Point College of Engineering & Technology
-currently_working_on: Dynamics 365 & Power Platform Solutions
-currently_learning: [SQL, Python, LeetCode problem-solving]
-ask_me_about: [Power Automate, Dynamics 365, Dataverse, Microsoft Graph API]
-reach_me: aswinms273@gmail.com
+focus: Canvas & Model-Driven Apps, Power Automate, Dataverse, Graph API
+experience: 4 years
+depth:
+  - Enterprise app architecture (delegation-aware, scalable)
+  - Identity & tenant automation via Microsoft Graph API
+  - ALM, governance & audit-ready design
+currently_learning: [SQL, Python, PCF deep-dives]
+certification: Microsoft Power Platform (in progress)
 ```
 
 ---
 
-### 💼 Professional Highlights
+### 🧩 Technical Highlights
 
-| 🎯 Project | 💡 Impact |
-| --- | --- |
-| **Field Sales Automation** | Streamlined sales processes — **30% efficiency gain** |
-| **New Joinee Email Automation** | Smoother onboarding for **100+ employees** |
-| **Microsoft Graph API Integration** | Improved data accessibility across business units |
-| **Field Sales & Service Optimization** | Boosted field operation efficiency by **25%** |
-| **Power Automate Workflows** | Built **50+ automated flows**, cutting manual effort |
-| **Dynamics 365 Sales Customization** | Tailored & deployed solutions for business needs |
-| **Dataverse Architecture** | Scalable data models for integration & reporting |
+- ⚙️ **Identity provisioning pipeline** — fault-tolerant Graph API pipeline for tenant onboarding at ~2,000 requests/day: identity creation, license assignment, group membership, and M365 resource init, with **retry mechanisms, correlation-ID tracking, and execution-state management**.
+- 📚 **Delegation-aware app at scale** — engineered a Dataverse + SharePoint app for 25,000+ users using **selective data provisioning, lazy-loading, and delegation-safe query patterns**, plus **Microsoft Search** integration and migration of 10,000+ legacy documents with metadata mapping.
+- 🔗 **Deep Graph API integration** — Azure AD identity, mailbox provisioning, license & group management, and Exchange Online config, with **correlation-ID audit trails** and **resilient retry architecture for Graph throttling**.
+- 📥 **Bulk data engine** — Excel bulk-upload engine with **row-level validation, deduplication, and structured Dataverse ingestion**, driving multi-stage conditional approval workflows.
+- 🧱 **Reusable engineering** — Power Fx **component libraries**, flow templates, **custom connectors**, and **Azure API Management** as a central API gateway.
+- 🔐 **Governance & ALM** — **Power Platform Pipelines** across Dev/Test/Prod, managed solutions, **DLP policies, column-level security, table permissions, and web roles**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Power Platform & Microsoft**
+**Power Platform &nbsp;&amp;&nbsp; Dynamics 365**
 
-![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
-![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=dynamics365&logoColor=white)
-![Dataverse](https://img.shields.io/badge/Dataverse-0A2767?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Graph](https://img.shields.io/badge/Microsoft%20Graph-2088FF?style=for-the-badge&logo=microsoft&logoColor=white)
+<p align="left">
+  <img src="https://img.icons8.com/color/48/microsoft-power-apps-2020.png" height="45" alt="Power Apps" title="Power Apps (Canvas & Model-Driven)"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" height="45" alt="Power Automate" title="Power Automate"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-dynamics-365.png" height="45" alt="Dynamics 365" title="Dynamics 365 Customer Service"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="45" alt="Power BI" title="Power BI"/>
+</p>
 
-**Languages**
+`Canvas Apps` · `Model-Driven Apps` · `Power Fx` · `Dataverse` · `Power Pages` · `PCF Components` · `Component Libraries`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+**Integration &nbsp;&amp;&nbsp; Identity**
 
-**Cloud & Tools**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="45" alt="Azure" title="Microsoft Azure"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-sharepoint-2019.png" height="45" alt="SharePoint" title="SharePoint"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/microsoft-exchange-2019.png" height="45" alt="Exchange Online" title="Exchange Online"/>
+</p>
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+`Microsoft Graph API` · `Azure API Management` · `Custom Connectors` · `REST APIs` · `Entra ID / External ID`
+
+**Governance &nbsp;&amp;&nbsp; ALM**
+
+`Power Platform Pipelines` · `Managed Solutions` · `DLP Policies` · `Column-Level Security` · `Table Permissions` · `Web Roles` · `Audit Trail Design`
+
+**Data &nbsp;&amp;&nbsp; Languages**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" height="45" alt="SQL Server" title="SQL"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="45" alt="Python" title="Python"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="45" alt="C" title="C"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="45" alt="Git" title="Git"/>
+</p>
 
 ---
 
@@ -99,7 +109,7 @@ reach_me: aswinms273@gmail.com
   <a href="https://twitter.com/aswin_m_s"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
   <a href="https://kaggle.com/aswinms"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
   <a href="https://www.hackerrank.com/aswinms273"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank"/></a>
-  <a href="https://instagram.com/________ash_______"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
+  <a href="mailto:aswinms273@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 </p>
 
 <p align="center">
