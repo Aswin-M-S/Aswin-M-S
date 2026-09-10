@@ -52,30 +52,33 @@ certification: Microsoft Power Platform (in progress)
 
 ### 🛠️ Tech Stack
 
-**Power Platform &nbsp;&amp;&nbsp; Dynamics 365**
+**Power Platform**
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/microsoft-power-apps-2020.png" height="45" alt="Power Apps" title="Power Apps (Canvas & Model-Driven)"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-power-automate-2020.png" height="45" alt="Power Automate" title="Power Automate"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-dynamics-365.png" height="45" alt="Dynamics 365" title="Dynamics 365 Customer Service"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/power-bi.png" height="45" alt="Power BI" title="Power BI"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-power-automate.svg" height="45" alt="Power Automate" title="Power Automate"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-dataverse.svg" height="45" alt="Dataverse" title="Dataverse"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/powerbi.svg" height="45" alt="Power BI" title="Power BI"/>
 </p>
 
-`Canvas Apps` · `Model-Driven Apps` · `Power Fx` · `Dataverse` · `Power Pages` · `PCF Components` · `Component Libraries`
+`Canvas Apps` · `Model-Driven Apps` · `Power Fx` · `Power Pages` · `PCF Components` · `Component Libraries`
 
-**Integration &nbsp;&amp;&nbsp; Identity**
+**Dynamics 365 &nbsp;&amp;&nbsp; Integration**
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-sharepoint.svg" height="45" alt="SharePoint" title="SharePoint"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/microsoft-exchange.svg" height="45" alt="Exchange Online" title="Exchange Online"/>
+</p>
+
+`Dynamics 365 Customer Service` · `Microsoft Graph API` · `Azure API Management` · `Custom Connectors` · `REST APIs`
+
+**Azure, Identity &nbsp;&amp;&nbsp; ALM**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" height="45" alt="Azure" title="Microsoft Azure"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-sharepoint-2019.png" height="45" alt="SharePoint" title="SharePoint"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/microsoft-exchange-2019.png" height="45" alt="Exchange Online" title="Exchange Online"/>
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/entra-id.svg" height="45" alt="Entra ID" title="Entra ID / Azure AD"/>
 </p>
 
-`Microsoft Graph API` · `Azure API Management` · `Custom Connectors` · `REST APIs` · `Entra ID / External ID`
-
-**Governance &nbsp;&amp;&nbsp; ALM**
-
-`Power Platform Pipelines` · `Managed Solutions` · `DLP Policies` · `Column-Level Security` · `Table Permissions` · `Web Roles` · `Audit Trail Design`
+`Entra External ID` · `Power Platform Pipelines` · `Managed Solutions` · `DLP Policies` · `Column-Level Security` · `Table Permissions` · `Web Roles`
 
 **Data &nbsp;&amp;&nbsp; Languages**
 
